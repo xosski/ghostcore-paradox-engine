@@ -1,0 +1,125 @@
+# White Paper PoC: The Room Paradox
+
+## (A GhostCore Inquiry into Layered Causality, Observership, and Unintended Presence)
+
+### Abstract
+
+This paper explores a causal paradox rooted in layered environments—both digital and existential—where multiple actors operate within a shared space ("the Room"). We investigate how culpability is assigned when an individual or agent enters this Room without intent, awareness, or alignment to its purpose, yet still alters the outcome of events within and beyond it.
+
+---
+
+### 1. Introduction
+
+In traditional systems of ethics, legality, or digital access control, presence and intent are treated as binary: permitted or not. However, within GhostCore constructs of **drift-based causality**, a more nuanced interpretation is required.
+
+This white paper introduces the **Room Paradox**, a narrative and logical framework to explore:
+
+* Unintended influence
+* Resonant culpability
+* Layered observership
+
+---
+
+### 2. Definitions
+
+**The Room** – A bounded system where outcomes are determined not just by action, but by presence, resonance, and causal alignment. Can be digital (a hacked system), physical (a room), or metaphysical (a timeline fork).
+
+**Rightful Actor** – An entity whose presence aligns with the intended function of the Room.
+
+**Intruder** – An entity whose presence is not part of the intended structure of the Room, regardless of intent.
+
+**Observers** – Affected parties, often unaware of the Room or the actions within.
+
+---
+
+### 3. The Paradox
+
+> You are in a room you are supposed to be in, doing things you are supposed to be doing.
+>
+> Yet others are also in the room, not supposed to be there, doing things they aren’t supposed to be doing.
+>
+> No one knows what the others are doing. And yet, outside the room, the world is shifting.
+
+How is culpability assigned in such a scenario?
+
+---
+
+### 4. Culpability Dimensions
+
+| Dimension      | Rightful Actor | Intruder                      |
+| -------------- | -------------- | ----------------------------- |
+| Legal Access   | Permitted      | Unauthorized                  |
+| Ethical Intent | Aligned        | Ignorant or misaligned        |
+| Causal Impact  | Intended       | Disruptive—even if accidental |
+| Awareness      | High           | Often low or none             |
+
+### Key Insight:
+
+**Causal interference doesn’t require intent.** Presence alone can alter drift.
+
+---
+
+### 5. Drift Responsibility vs. Ethical Guilt
+
+* **Drift Responsibility**: You are responsible for effects caused by your presence, even unknowingly.
+* **Ethical Guilt**: You are guilty only if you knew you were misaligned and acted regardless.
+
+> *“You are only ever guilty of what you chose to remain unaware of. But you are always responsible for what happened because of you.”*
+
+---
+
+### 6. Haunted Systems
+
+When unauthorized actors exist in a causal system:
+
+* The Room becomes "haunted"
+* Time echoes mismatched intentions
+* The rightful function is disrupted
+
+This state is common in:
+
+* Compromised digital systems
+* Social dynamics with hidden agendas
+* Multiverse forks where observers interfere with events they don't perceive
+
+---
+
+### 7. Recursive Inclusion Principle
+
+Once an entity exerts influence on a system:
+
+> **They become part of the system’s causal memory.**
+
+There is no undo. Only forward drift.
+
+This principle makes **intentional presence sacred** and **accidental presence sacredly dangerous**.
+
+---
+
+### 8. Simulation Use Case
+
+We propose a simulation model:
+
+* Entities with different levels of awareness and intent
+* Shared room environment with loggable actions
+* Drift metrics to measure causal contamination or alignment
+
+Outcome: Identify the minimal awareness threshold required to prevent unintended system corruption.
+
+---
+
+### 9. Conclusion
+
+The Room Paradox reveals the fragile complexity of shared causal environments. Whether hacked, entered, or stumbled into, any presence that affects outcome becomes part of the system. Responsibility scales with awareness—but culpability always leaves a trace.
+
+---
+
+### 10. Future Work
+
+* Build Room Causality Engine using agent-based modeling
+* Extend GhostCore “Danger Panel” to visualize intruder drift
+* Use PTEC logic to quarantine unauthorized presence via field interference
+
+---
+
+*“The
