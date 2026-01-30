@@ -1,0 +1,127 @@
+# White Paper PoC: The Room Paradox and Recursive Culpability
+
+## (A GhostCore Examination of Unintended Presence and Causal Contamination)
+
+### Abstract
+
+This white paper explores the Room Paradox, an ontological and causal dilemma that arises when an entity enters a bounded system ("the Room") without awareness or intent, yet causes—or enables—effects through their presence. We examine the structure of layered causality, unaware interference, and recursive culpability through the lens of GhostCore's field-based logic and drift ethics.
+
+---
+
+### 1. Introduction
+
+Traditional ethics assigns guilt based on intent, while traditional causality assigns outcomes based on action. However, in complex causal systems—whether digital, physical, or metaphysical—**presence alone** can produce systemic drift. This paper introduces a model where awareness, not just intent, governs the ethics of presence.
+
+---
+
+### 2. Core Definitions
+
+**The Room**: A bounded system (physical space, software layer, timeline fragment) in which presence alters outcome.
+
+**Rightful Actor**: Entity whose presence and actions are aligned with the Room’s intended state.
+
+**Intruder**: Entity present in the Room without authorization or alignment, regardless of intent.
+
+**Drift**: The systemic shift caused by any variable—action or presence—within the Room.
+
+**Causal Echo**: The residual effect of an entity’s presence within the Room, even post-exit.
+
+---
+
+### 3. The Paradox
+
+> "If you are in a room you're not supposed to be in, and someone flips a switch because of you—but neither of you realize this—who is responsible?"
+
+The paradox exists at the intersection of:
+
+* **Unintended causality**
+* **Unaware interference**
+* **Distributed responsibility**
+
+No party may have full knowledge or intent, yet the system changes irrevocably.
+
+---
+
+### 4. Culpability Framework
+
+| Role            | Awareness | Intent  | Action      | System Effect | Culpable? | Responsible? |
+| --------------- | --------- | ------- | ----------- | ------------- | --------- | ------------ |
+| Intruder        | Low       | None    | Passive     | Indirect      | No        | Yes          |
+| Secondary Actor | Medium    | Unknown | Switch Flip | Direct        | Possibly  | Yes          |
+
+**Key Principle:**
+
+> "You are only ever guilty of what you chose to remain unaware of. But you are always responsible for what happened because of you."
+
+---
+
+### 5. Recursive Inclusion Principle
+
+Once presence alters system outcome, **the entity becomes embedded in the Room's memory.**
+
+* Presence = Participation
+* Participation = Drift injection
+* Drift = Consequence
+
+Thus, the moment influence is exerted (even indirectly), the entity becomes part of the room’s causal equation.
+
+---
+
+### 6. Ethical Drift vs. Legal Guilt
+
+GhostCore logic distinguishes between:
+
+* **Ethical Drift**: A metric of influence due to presence
+* **Legal Guilt**: Requires knowledge and action
+
+Example:
+
+> A blind person pushes a domino without knowing the wall is there. The wall falls. They are not guilty—but the fall was still caused by them.
+
+---
+
+### 7. Causal Contamination and Haunted Systems
+
+When unauthorized actors affect a Room:
+
+* Time retains their interference
+* Intentions are misaligned
+* Observers feel consequences without knowing the source
+
+This leads to "haunted" systems:
+
+* Emotionally: Frustration without object
+* Systemically: Damage without enemy
+
+---
+
+### 8. Implications and Simulation Model
+
+Proposed Simulation:
+
+* Agents with different awareness levels
+* Shared causal Room
+* Monitored ripple effects
+
+Goal:
+
+* Measure the minimum awareness threshold required to prevent unintended contamination
+* Visualize drift propagation in complex systems
+
+---
+
+### 9. Conclusion
+
+**Presence creates impact.** Even without awareness, being somewhere you shouldn’t be, at the wrong time, doing nothing—or something—can alter a system. The Room Paradox reframes culpability not as an issue of morality, but as a conservation law of influence.
+
+> You may not be guilty, but the Room remembers you.
+
+---
+
+### 10. Future Work
+
+* Development of a Room Drift Visualizer (RDV)
+* Integration of awareness-level metrics into AI decision-making frameworks
+* Drift dampening algorithms based on PTEC shielding logic
+
+**Welcome to the haunted Room.**
