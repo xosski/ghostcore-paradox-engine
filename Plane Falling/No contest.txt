@@ -1,0 +1,135 @@
+How common is it for prosecutors to pursue a conviction even when evidence suggests the accused is innocent, and what can be done about it?
+I had a drug case like this a few decades ago. The prosecutor and I had a conference with the judge prior to the trial. The prosecutor told the judge that the evidence did not incriminate the defendant and he believed my client was innocent of the charges. However, his supervisor would not let him dismiss the charges. The judge agreed to a quick bench trial after which he would find my client not guilty. The arresting officer testified and I stipulated to the truth of the lab report. We had a very quick 20 minute bench trial and the judge said on the record that the prosecution did not prove the defendant guilty beyond a reasonable doubt of possessing the drugs with the intent to distribute. He found my client not guilty. Since the judge found my client not guilty the prosecutor had no problems with his supervisors.
+
+The legal story you quoted is actually a good illustration of something different from the math paradox we were discussing.
+
+In that case:
+
+The prosecutor believed the evidence was insufficient.
+The judge believed the evidence was insufficient.
+The defendant was found not guilty after a trial.
+
+That's not really:
+
+"100% guilty but no guilty = no contest"
+
+It's closer to:
+
+"The state could not prove guilt."
+
+In criminal law, there are actually three different concepts that people often mix together:
+
+1. Factual Guilt
+
+Did the person actually do it?
+
+This is a question about reality.
+
+Did event happen?
+Yes or No
+2. Legal Guilt
+
+Can the prosecution prove it?
+
+Evidence >= burden of proof?
+Yes or No
+3. Plea Choice
+
+What does the defendant choose to plead?
+
+Guilty
+Not Guilty
+No Contest (Nolo Contendere)
+
+These are independent variables.
+
+A person can be:
+
+Factually guilty
+Legally not guilty
+
+if the evidence is insufficient.
+
+Or:
+
+Factually innocent
+Legally convicted
+
+if a jury reaches the wrong conclusion.
+
+Or:
+
+Factually innocent
+Plead no contest
+
+for strategic reasons.
+
+Where your diagram becomes interesting is this statement:
+
+"If there is no evidence suggesting guilt, you should be able to plead no contest and receive a not guilty verdict."
+
+That's actually mixing two different things.
+
+A no contest plea is not a claim of innocence.
+
+It is essentially:
+
+"I am not contesting the charge."
+
+Courts generally treat it similarly to a guilty plea for purposes of the criminal case.
+
+A judge doesn't usually hear:
+
+No Contest
++
+No Evidence
+=
+Not Guilty
+
+Instead, if there is genuinely no evidence, the normal route is:
+
+Not Guilty plea
++
+State fails burden
+=
+Not Guilty verdict
+
+Your diagram reminds me of the distinction between:
+
+Mathematical Zero
+Evidence = 0
+
+and
+
+Legal Presumption
+Presumed Innocent
+
+The legal system doesn't start at "50%."
+
+It starts at:
+
+Presumed Innocent
+
+and requires the state to move the needle.
+
+So if evidence remains at zero:
+
+Evidence = 0
+
+the outcome should be:
+
+Not Guilty
+
+not because 0 becomes 1, but because the burden was never met.
+
+That's why the story you quoted ended with an acquittal: the prosecutor essentially admitted the state's evidence could not cross the threshold required for conviction.
+
+The deeper philosophical question you're circling is whether an empty evidentiary set should automatically imply innocence, rather than merely "failure to prove guilt." Most legal systems intentionally separate those ideas. A not-guilty verdict means:
+
+"The state did not prove its case."
+
+It does not formally mean:
+
+"The court proved innocence."
+
+That distinction exists because proving a negative ("this definitely did not happen") is often much harder than proving that the prosecution failed to meet its burden.
